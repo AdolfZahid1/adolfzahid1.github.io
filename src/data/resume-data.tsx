@@ -7,6 +7,7 @@ import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 export const RESUME_DATA = {
   name: "Kirils Obodnikovs",
   initials: "KO",
+  personalWebsiteUrl: "",
   location: "Riga, Latvia",
   locationLink: "https://maps.app.goo.gl/kFQiZuqCLC8yaBt48",
   about:
