@@ -57,7 +57,6 @@ export const RESUME_DATA = {
     "Ruby",
     "TypeScript",
     "Linux",
-    "Node.js",
     "PostgreSQL",
     "Ruby on Rails",
     "Stimulus",
